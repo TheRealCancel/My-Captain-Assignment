@@ -1,0 +1,5 @@
+print("Enter the radius of the Circle for which area is to be found")
+radius = float(input())
+area= 22/7*(radius**2)
+print("the area of the circle whose radius you entered is")
+print(area)
